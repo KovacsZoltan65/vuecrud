@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=TW6Yg79YkAs&list=PLa9jxxDE6i_1cWCmpsizPHS70XId43Ujy
+https://www.youtube.com/watch?v=GifnmPrbrVY&list=PLa9jxxDE6i_1cWCmpsizPHS70XId43Ujy&index=2
+https://www.youtube.com/watch?v=BK_Xoe9vQco&list=PLa9jxxDE6i_1cWCmpsizPHS70XId43Ujy&index=3
+
+inertiajs.com
+composer require inertiajs/inertia-laravel
+getbootstraop.com
